@@ -30,10 +30,20 @@ sysinfo.txt
 *.unitypackage
 Assets/shimoi/game.unity
 
-# add ignored files
 Library
 Temp
+*.bat
+*.csproj
+*.csproj.user
+*.booproj
 *.pidb
 *.sln
+*.sln.meta
+*.suo
 *.unityproj
 *.userprefs
+*.userprefs.meta
+*~
+.DS_Store
+*[! -~]*
+*.pidb.meta
