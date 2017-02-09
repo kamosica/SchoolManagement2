@@ -29,3 +29,11 @@ sysinfo.txt
 *.apk
 *.unitypackage
 Assets/shimoi/game.unity
+
+# add ignored files
+Library
+Temp
+*.pidb
+*.sln
+*.unityproj
+*.userprefs
